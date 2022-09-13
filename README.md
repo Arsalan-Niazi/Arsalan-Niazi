@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Portfolio Project**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **UX/UI DESIGNING**
 
 - 📫 How to reach me **arsalniazi7019@gmail.com**
 
