@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arsalan Niazi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Portfolio Project**
+- 🔭 I’m currently working as a **UI UX Designer and Webflow developer**
 
-- 🌱 I’m currently learning **UX/UI DESIGNING**
 
 - 📫 How to reach me **arsalniazi7019@gmail.com**
 
